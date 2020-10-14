@@ -24,3 +24,8 @@ The motivation consisted in learning this framework in Javascript and understadi
 
 6 - If during all the CRUD operations the Local Storage works as expects, the project is successfully working.
 
+
+<h3>Screens of project</h3>
+
+<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen1.png">Creating contact</img>
+<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen2.png">Updating contact</img>
