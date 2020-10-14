@@ -27,5 +27,7 @@ The motivation consisted in learning this framework in Javascript and understadi
 
 <h3>Screens of project</h3>
 
-<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen1.png">Creating contact</img>
-<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen2.png">Updating contact</img>
+<p>Creating contact</p>
+<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen1.png"></img>
+<p>Updating contact</p>
+<img src="https://github.com/lucasmoore2k/Crud-in-VueJs/blob/main/imgs/screen2.png"></img>
